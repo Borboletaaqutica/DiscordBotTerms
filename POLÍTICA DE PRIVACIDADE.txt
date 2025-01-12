@@ -1,0 +1,51 @@
+POLÍTICA DE PRIVACIDADE DO BOT DO DISCORD
+
+Última atualização: [10/01/2025]
+
+A Política de Privacidade a seguir descreve como [lossain] coleta, usa, armazena e compartilha informações coletadas de usuários que utilizam o Bot do Discord (a "FaithJS""). Ao utilizar o Bot, você concorda com esta Política de Privacidade. Se você não concordar com esta Política, não utilize o Bot.
+
+1. Coleta de Informações
+
+1.1. Informações do Usuário: O Bot pode coletar informações sobre você, incluindo, mas não se limitando a, seu nome de usuário, ID de usuário do Discord e histórico de mensagens em servidores que o Bot acessa.
+
+1.2. Informações de Uso: O Bot pode registrar informações sobre como você usa suas funcionalidades, incluindo os comandos que você emite e as respostas geradas pelo Bot.
+
+2. Uso das Informações
+
+2.1. Fornecimento de Serviços: Utilizamos as informações coletadas para operar, manter e melhorar o Bot e seus serviços, bem como para responder a solicitações de suporte.
+
+2.2. Comunicação: Podemos entrar em contato com você para fornecer informações importantes relacionadas ao Bot ou para responder a suas perguntas e solicitações.
+
+2.3. Análise de Dados: Podemos utilizar informações agregadas e anonimizadas para fins de análise, pesquisa e desenvolvimento de produtos.
+
+3. Armazenamento de Informações
+
+3.1. Armazenamento: As informações coletadas pelo Bot são armazenadas em servidores seguros e protegidas contra acesso não autorizado.
+
+3.2. Retenção: Retemos suas informações apenas pelo tempo necessário para cumprir os fins para os quais foram coletadas, a menos que seja exigido por lei ou regulamento.
+
+4. Compartilhamento de Informações
+
+4.1. Terceiros: Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para a prestação do serviço ou exigido por lei.
+
+5. Segurança
+
+5.1. Implementamos medidas de segurança razoáveis para proteger suas informações contra acesso não autorizado, divulgação, alteração ou destruição.
+
+6. Consentimento
+
+6.1. Ao usar o Bot, você consente com a coleta e uso de suas informações conforme descrito nesta Política de Privacidade.
+
+7. Menores de Idade
+
+7.1. O Bot não é destinado a menores de 13 anos. Não coletamos intencionalmente informações de menores de idade. Se você acredita que coletamos informações de uma criança, entre em contato conosco para que possamos tomar medidas apropriadas.
+
+8. Alterações na Política de Privacidade
+
+8.1. Reservamos o direito de modificar esta Política de Privacidade a qualquer momento. Quaisquer alterações serão publicadas nesta página. O uso contínuo do Bot após as alterações constitui aceitação das novas políticas.
+
+9. Contato
+
+Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco em [cokiie101@gmail.com].
+
+Ao utilizar o Bot, você declara que leu, compreendeu e concorda com esta Política de Privacidade. Se não concordar com ela, não utilize o Bot.
